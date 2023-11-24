@@ -1,4 +1,4 @@
-# Привет, я Мишаня (Hi , I'm Mikhail Polyakov) 👋 
+# Привет, я Михаил Поляков (Hi , I'm Mikhail Polyakov) 👋 
 <p align="center"
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000FF&lines=I'm+Python+developer+student)](https://git.io/typing-svg)
@@ -20,7 +20,7 @@
 	<a href="https://t.me/mikhapol"><img src="https://img.shields.io/badge/telegram-blue?style=plastic&logo=telegram&logoColor=white" alt="Telegram"/></a>
 </p>
 
-## 🛠️ My Skills (Что я думаю что умею 😄)
+## 🛠️ My Skills
 <p align="center">
 <img src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/><br>
   
